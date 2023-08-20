@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1692516072480,
+  "timestamp": 1692516226806,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.94395898373396afe8f4.js",
+        "/main.a77d0e4e05609c55d1a0.js",
         "/manifest.webmanifest",
         "/polyfills.708558daaae5fc286e3d.js",
         "/runtime.290c3a76145fae8244ba.js",
@@ -327,8 +327,8 @@
     "/assets/js/popper.min.js.map": "fb32abf252df56630af06880b46b1f9433d51ecd",
     "/assets/js/profile-accordion-menu-script.js": "da32364d1a89b83cd11b1e3ab2f5e32e92e21dfc",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "3d6510a1162fc60cbc48e289b2d4d948174dd80d",
-    "/main.94395898373396afe8f4.js": "b10ed8883d73055431fc29a5d05e0e77ab32615a",
+    "/index.html": "b3bbf70ccff78de60465eb31e78b7245f68fb498",
+    "/main.a77d0e4e05609c55d1a0.js": "67c2bf3543149d82a5111e0ded5b6b5910b8e471",
     "/manifest.webmanifest": "76dc8f5b8af1738edab425b5eb4cda6b1eb90e4d",
     "/owl.video.play.7f01b07148f205f6e825.png": "c0d64356ec2758cb280d183b4829c923e5ff61e5",
     "/polyfills.708558daaae5fc286e3d.js": "3d038a417bf837fc22bc5a33b45dfea181c53329",
