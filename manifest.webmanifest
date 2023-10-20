@@ -1,7 +1,7 @@
 {
-  "name": "Astha",
-  "short_name": "Astha",
-  "theme_color": "#44d62c",
+  "name": "bankrupt-frontend",
+  "short_name": "bankrupt-frontend",
+  "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "./",
